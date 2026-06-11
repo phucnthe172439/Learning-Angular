@@ -55,3 +55,17 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Visual Studio
+.vs/
+
+# .NET
+bin/
+obj/
+
+# Angular
+node_modules/
+dist/
+
+# VS Code
+.vscode/
